@@ -2,7 +2,8 @@
 
 **TODO: Add description**
  Vamos examinar de perto o GenStage, para que serve e como podemos usá-lo em nossas aplicações.
-  
+ https://elixirschool.com/pt/lessons/data_processing/genstage#produtor-consumidor-4
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
